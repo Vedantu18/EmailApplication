@@ -24,7 +24,7 @@ Using JavaMail API to send emails using SMTP from Java applications:
 i. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/Java-Email-Application.git
+https://github.com/Vedantu18/EmailApplication.git
 ```
 
 ii. Open project folder
@@ -68,4 +68,4 @@ Tutorial Title:  JavaMail Example - Send Mail in Java using SMTP
 
 Tutorial URL: https://www.digitalocean.com/community/tutorials/javamail-example-send-mail-in-java-smtp
 
-Date: August 3, 2022
+Date: July 4, 2024
